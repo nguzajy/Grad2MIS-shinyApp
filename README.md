@@ -1,2 +1,2 @@
 # Grad2MIS-shinyApp
-Shiny R app built with grad2mis
+Shiny R app built for household custom reports on GRAD2MIS
