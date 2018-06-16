@@ -148,4 +148,5 @@ server <- function(input, output) {
       }
     )
 }
+rsconnect::deployApp('~/Grad2MIS-shinyApp')
 shinyApp(ui, server)
